@@ -1,4 +1,4 @@
-# SALES_ANALYSIS
+# SALES_ANALYSIS_PROJECT
 
 📊 Superstore Sales Analysis
 
